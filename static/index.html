@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post-Discharge Medical AI Assistant</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🏥 Post-Discharge Medical AI Assistant</h1>
+            <p class="disclaimer">⚠️ This is an AI assistant for educational purposes only. Always consult healthcare professionals for medical advice.</p>
+        </header>
+        
+        <div class="chat-container">
+            <div class="chat-messages" id="chatMessages">
+                <div class="message assistant-message">
+                    <div class="message-content">
+                        <strong>Assistant:</strong> Hello! Welcome to the nephrology clinic. Could you please provide your full name so I can look up your discharge information?
+                    </div>
+                    <div class="timestamp" id="timestamp"></div>
+                </div>
+            </div>
+            
+            <div class="chat-input-container">
+                <input type="text" id="messageInput" placeholder="Type your message here..." autocomplete="off">
+                <button id="sendButton">Send</button>
+            </div>
+        </div>
+        
+        <div class="sidebar">
+            <div class="patient-info" id="patientInfo" style="display: none;">
+                <h3>Patient Information</h3>
+                <p id="patientName"></p>
+                <p id="dischargeStatus"></p>
+            </div>
+            
+            <div class="logs-section">
+                <button id="showLogsButton">View Interaction Log</button>
+                <div id="logsContainer" style="display: none;">
+                    <h4>System Logs</h4>
+                    <div id="logsList"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

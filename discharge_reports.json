@@ -1,0 +1,272 @@
+[
+  {
+    "patient_name": "John Smith",
+    "discharge_date": "2024-01-15",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 3",
+    "medications": ["Lisinopril 10mg daily", "Furosemide 20mg twice daily"],
+    "dietary_restrictions": "Low sodium (2g/day), fluid restriction (1.5L/day)",
+    "follow_up": "Nephrology clinic in 2 weeks",
+    "warning_signs": "Swelling, shortness of breath, decreased urine output",
+    "discharge_instructions": "Monitor blood pressure daily, weigh yourself daily"
+  },
+  {
+    "patient_name": "Maria Garcia",
+    "discharge_date": "2024-01-18",
+    "primary_diagnosis": "Acute Kidney Injury",
+    "medications": ["Discontinue NSAIDs", "Omeprazole 20mg daily"],
+    "dietary_restrictions": "Adequate hydration, avoid excessive protein",
+    "follow_up": "Primary care in 1 week, Nephrology if creatinine not improving",
+    "warning_signs": "Decreased urination, severe fatigue, nausea",
+    "discharge_instructions": "Rest, avoid dehydration, follow-up labs in 3 days"
+  },
+  {
+    "patient_name": "Robert Johnson",
+    "discharge_date": "2024-01-20",
+    "primary_diagnosis": "End Stage Renal Disease on Hemodialysis",
+    "medications": ["Sevelamer 800mg with meals", "Epoetin alfa 3000 units 3x/week"],
+    "dietary_restrictions": "Phosphorus restriction, potassium <2g/day, fluid 800ml/day",
+    "follow_up": "Dialysis center tomorrow, Nephrology in 1 month",
+    "warning_signs": "Missed dialysis, severe shortness of breath, chest pain",
+    "discharge_instructions": "Strict adherence to dialysis schedule, daily weights"
+  },
+  {
+    "patient_name": "Sarah Williams",
+    "discharge_date": "2024-01-22",
+    "primary_diagnosis": "Nephrotic Syndrome",
+    "medications": ["Prednisone 60mg daily", "Lisinopril 5mg daily", "Furosemide 40mg daily"],
+    "dietary_restrictions": "Low sodium diet, moderate protein restriction",
+    "follow_up": "Nephrology in 1 week",
+    "warning_signs": "Severe swelling, breathing difficulty, infections",
+    "discharge_instructions": "Monitor for infections, daily weights, gradual activity increase"
+  },
+  {
+    "patient_name": "Michael Brown",
+    "discharge_date": "2024-01-25",
+    "primary_diagnosis": "Diabetic Nephropathy",
+    "medications": ["Metformin 1000mg twice daily", "Losartan 50mg daily", "Insulin glargine 24 units"],
+    "dietary_restrictions": "Diabetic diet, protein 0.8g/kg/day, sodium <2g/day",
+    "follow_up": "Endocrinology in 2 weeks, Nephrology in 1 month",
+    "warning_signs": "Blood sugar >400 or <70, persistent nausea, confusion",
+    "discharge_instructions": "Blood sugar monitoring 4x daily, carb counting"
+  },
+  {
+    "patient_name": "Jennifer Davis",
+    "discharge_date": "2024-01-28",
+    "primary_diagnosis": "Polycystic Kidney Disease",
+    "medications": ["Tolvaptan 60mg daily", "Amlodipine 5mg daily"],
+    "dietary_restrictions": "Adequate fluid intake, low sodium diet",
+    "follow_up": "Nephrology in 3 months",
+    "warning_signs": "Severe flank pain, fever, blood in urine",
+    "discharge_instructions": "Avoid contact sports, genetic counseling referral"
+  },
+  {
+    "patient_name": "David Miller",
+    "discharge_date": "2024-02-01",
+    "primary_diagnosis": "Glomerulonephritis",
+    "medications": ["Cyclophosphamide 100mg daily", "Prednisone 40mg daily"],
+    "dietary_restrictions": "Low sodium, adequate protein intake",
+    "follow_up": "Nephrology in 2 weeks",
+    "warning_signs": "Fever, severe headache, visual changes",
+    "discharge_instructions": "Avoid crowds, monitor for infections, regular labs"
+  },
+  {
+    "patient_name": "Lisa Wilson",
+    "discharge_date": "2024-02-03",
+    "primary_diagnosis": "Kidney Transplant - Post-operative",
+    "medications": ["Tacrolimus 2mg twice daily", "Mycophenolate 1000mg twice daily", "Prednisone 20mg daily"],
+    "dietary_restrictions": "Low sodium, avoid grapefruit, food safety precautions",
+    "follow_up": "Transplant clinic in 3 days",
+    "warning_signs": "Fever, decreased urine output, tenderness over transplant",
+    "discharge_instructions": "Strict medication compliance, avoid crowds, daily weights"
+  },
+  {
+    "patient_name": "James Moore",
+    "discharge_date": "2024-02-05",
+    "primary_diagnosis": "Hypertensive Nephrosclerosis",
+    "medications": ["Amlodipine 10mg daily", "Metoprolol 50mg twice daily", "Hydrochlorothiazide 25mg daily"],
+    "dietary_restrictions": "DASH diet, sodium <1.5g/day",
+    "follow_up": "Cardiology in 2 weeks, Nephrology in 1 month",
+    "warning_signs": "Blood pressure >180/110, severe headache, chest pain",
+    "discharge_instructions": "Home BP monitoring twice daily, medication compliance"
+  },
+  {
+    "patient_name": "Patricia Taylor",
+    "discharge_date": "2024-02-08",
+    "primary_diagnosis": "Lupus Nephritis",
+    "medications": ["Hydroxychloroquine 200mg twice daily", "Mycophenolate 1500mg twice daily", "Prednisone 30mg daily"],
+    "dietary_restrictions": "Calcium and Vitamin D supplementation, low sodium",
+    "follow_up": "Rheumatology in 1 week, Nephrology in 2 weeks",
+    "warning_signs": "Joint swelling, rash, fever, decreased urination",
+    "discharge_instructions": "Sun protection, monitor for infections, regular eye exams"
+  },
+  {
+    "patient_name": "Christopher Anderson",
+    "discharge_date": "2024-02-10",
+    "primary_diagnosis": "Peritoneal Dialysis - Training Complete",
+    "medications": ["Calcium carbonate 1250mg with meals", "Calcitriol 0.25mcg daily"],
+    "dietary_restrictions": "Liberal protein diet, phosphorus restriction",
+    "follow_up": "PD clinic in 1 week",
+    "warning_signs": "Cloudy dialysate, abdominal pain, fever",
+    "discharge_instructions": "Strict sterile technique, exit site care, fluid balance charts"
+  },
+  {
+    "patient_name": "Nancy Thomas",
+    "discharge_date": "2024-02-12",
+    "primary_diagnosis": "Kidney Stones - Post Lithotripsy",
+    "medications": ["Potassium citrate 10mEq twice daily", "Tamsulosin 0.4mg daily"],
+    "dietary_restrictions": "Increase fluid intake to 3L/day, low sodium, limit oxalate",
+    "follow_up": "Urology in 2 weeks",
+    "warning_signs": "Severe flank pain, fever, inability to urinate",
+    "discharge_instructions": "Strain urine for stones, follow stone prevention diet"
+  },
+  {
+    "patient_name": "Daniel Jackson",
+    "discharge_date": "2024-02-15",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 4",
+    "medications": ["Sevelamer 1600mg with meals", "Darbepoetin alfa 60mcg weekly"],
+    "dietary_restrictions": "Protein 0.6g/kg/day, phosphorus <800mg/day, potassium <2g/day",
+    "follow_up": "Nephrology in 2 weeks, Transplant evaluation",
+    "warning_signs": "Severe fatigue, shortness of breath, swelling",
+    "discharge_instructions": "Prepare for renal replacement therapy options"
+  },
+  {
+    "patient_name": "Karen White",
+    "discharge_date": "2024-02-18",
+    "primary_diagnosis": "Acute Tubular Necrosis",
+    "medications": ["Hold ACE inhibitors", "Furosemide 20mg as needed"],
+    "dietary_restrictions": "Fluid restriction 1L/day, moderate protein",
+    "follow_up": "Nephrology in 5 days",
+    "warning_signs": "Oliguria, severe swelling, confusion",
+    "discharge_instructions": "Daily weights, input/output monitoring"
+  },
+  {
+    "patient_name": "Steven Harris",
+    "discharge_date": "2024-02-20",
+    "primary_diagnosis": "IgA Nephropathy",
+    "medications": ["Lisinopril 20mg daily", "Fish oil 2g daily"],
+    "dietary_restrictions": "Low sodium diet, omega-3 rich foods",
+    "follow_up": "Nephrology in 3 months",
+    "warning_signs": "Gross hematuria, severe hypertension, edema",
+    "discharge_instructions": "Avoid NSAIDs, regular BP monitoring"
+  },
+  {
+    "patient_name": "Helen Martin",
+    "discharge_date": "2024-02-22",
+    "primary_diagnosis": "Minimal Change Disease",
+    "medications": ["Prednisone 1mg/kg daily", "Pantoprazole 40mg daily"],
+    "dietary_restrictions": "No added salt, adequate protein",
+    "follow_up": "Nephrology in 2 weeks",
+    "warning_signs": "Severe edema, infections, mood changes",
+    "discharge_instructions": "Monitor for steroid side effects, bone health"
+  },
+  {
+    "patient_name": "Paul Thompson",
+    "discharge_date": "2024-02-25",
+    "primary_diagnosis": "Renovascular Disease",
+    "medications": ["Aspirin 81mg daily", "Atorvastatin 40mg daily", "Amlodipine 5mg daily"],
+    "dietary_restrictions": "Heart-healthy diet, low saturated fat",
+    "follow_up": "Interventional nephrology in 1 month",
+    "warning_signs": "Severe hypertension, flash pulmonary edema",
+    "discharge_instructions": "Smoking cessation, exercise as tolerated"
+  },
+  {
+    "patient_name": "Dorothy Garcia",
+    "discharge_date": "2024-02-28",
+    "primary_diagnosis": "Interstitial Nephritis",
+    "medications": ["Discontinue proton pump inhibitors", "Prednisone 40mg daily"],
+    "dietary_restrictions": "Adequate hydration, no dietary restrictions",
+    "follow_up": "Nephrology in 1 week",
+    "warning_signs": "Rash, fever, decreased urination",
+    "discharge_instructions": "Avoid nephrotoxic medications, medication review"
+  },
+  {
+    "patient_name": "George Martinez",
+    "discharge_date": "2024-03-02",
+    "primary_diagnosis": "Chronic Kidney Disease Stage 5 - Pre-dialysis",
+    "medications": ["Cinacalcet 30mg daily", "Iron sucrose 100mg weekly"],
+    "dietary_restrictions": "Phosphorus <800mg/day, potassium <2g/day",
+    "follow_up": "Dialysis access surgery in 1 week",
+    "warning_signs": "Severe nausea, confusion, pericardial rub",
+    "discharge_instructions": "Prepare for dialysis initiation, dietary education"
+  },
+  {
+    "patient_name": "Ruth Robinson",
+    "discharge_date": "2024-03-05",
+    "primary_diagnosis": "Contrast-Induced Nephropathy",
+    "medications": ["N-acetylcysteine 600mg twice daily", "Normal saline hydration"],
+    "dietary_restrictions": "Maintain good hydration",
+    "follow_up": "Primary care in 1 week",
+    "warning_signs": "Decreased urination, swelling, shortness of breath",
+    "discharge_instructions": "Avoid contrast agents for 48 hours, follow-up labs"
+  },
+  {
+    "patient_name": "Frank Lewis",
+    "discharge_date": "2024-03-08",
+    "primary_diagnosis": "Membranous Nephropathy",
+    "medications": ["Rituximab 375mg/m2 - course planned", "Tacrolimus 3mg twice daily"],
+    "dietary_restrictions": "Low sodium, moderate protein",
+    "follow_up": "Nephrology in 2 weeks",
+    "warning_signs": "Severe edema, infections, thrombotic events",
+    "discharge_instructions": "Pneumocystis prophylaxis, infection precautions"
+  },
+  {
+    "patient_name": "Betty Walker",
+    "discharge_date": "2024-03-10",
+    "primary_diagnosis": "Rapidly Progressive Glomerulonephritis",
+    "medications": ["Cyclophosphamide 2mg/kg daily", "Prednisone 60mg daily"],
+    "dietary_restrictions": "No restrictions, maintain nutrition",
+    "follow_up": "Nephrology in 1 week",
+    "warning_signs": "Pulmonary hemorrhage, severe hypertension",
+    "discharge_instructions": "Close monitoring, avoid live vaccines"
+  },
+  {
+    "patient_name": "Edward Hall",
+    "discharge_date": "2024-03-12",
+    "primary_diagnosis": "Goodpasture Syndrome",
+    "medications": ["Plasmapheresis completed", "Prednisone 80mg daily", "Cyclophosphamide 150mg daily"],
+    "dietary_restrictions": "High calorie, high protein diet",
+    "follow_up": "Pulmonology and Nephrology in 1 week",
+    "warning_signs": "Hemoptysis, dyspnea, oliguria",
+    "discharge_instructions": "Pulmonary rehabilitation, infection prevention"
+  },
+  {
+    "patient_name": "Sharon Young",
+    "discharge_date": "2024-03-15",
+    "primary_diagnosis": "Alport Syndrome",
+    "medications": ["Lisinopril 10mg daily", "Hearing aid consultation"],
+    "dietary_restrictions": "No specific restrictions",
+    "follow_up": "Nephrology in 3 months, Audiology referral",
+    "warning_signs": "Hearing changes, vision problems, hematuria",
+    "discharge_instructions": "Genetic counseling, family screening"
+  },
+  {
+    "patient_name": "Larry King",
+    "discharge_date": "2024-03-18",
+    "primary_diagnosis": "Focal Segmental Glomerulosclerosis",
+    "medications": ["Cyclosporine 100mg twice daily", "Prednisone 60mg daily"],
+    "dietary_restrictions": "Low sodium, adequate protein",
+    "follow_up": "Nephrology in 2 weeks",
+    "warning_signs": "Severe proteinuria, hypertension, edema",
+    "discharge_instructions": "Monitor cyclosporine levels, gum care"
+  },
+  {
+    "patient_name": "Sandra Martinez",
+    "discharge_date": "2024-03-20",
+    "primary_diagnosis": "Hemolytic Uremic Syndrome",
+    "medications": ["Plasmapheresis completed", "Folic acid 5mg daily"],
+    "dietary_restrictions": "Avoid raw foods, ensure food safety",
+    "follow_up": "Hematology and Nephrology in 1 week",
+    "warning_signs": "Neurological symptoms, severe anemia, thrombocytopenia",
+    "discharge_instructions": "Monitor CBC, avoid E. coli exposure"
+  },
+  {
+    "patient_name": "Ronald Clark",
+    "discharge_date": "2024-03-22",
+    "primary_diagnosis": "Thrombotic Thrombocytopenic Purpura",
+    "medications": ["Plasmapheresis ongoing", "Prednisone 80mg daily"],
+    "dietary_restrictions": "Neutropenic diet precautions",
+    "follow_up": "Hematology tomorrow, Nephrology in 3 days",
+    "warning_signs": "Neurological changes, fever, purpura",
+    "discharge_instructions": "Avoid platelet transfusions unless bleeding"
+  }
+]

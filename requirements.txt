@@ -1,0 +1,11 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+langchain==0.0.352
+langchain-google-genai==0.0.6
+langchain-community==0.0.13
+langchain-core==0.1.23
+faiss-cpu
+pypdf2==3.0.1
+duckduckgo-search==3.9.6
+python-multipart==0.0.6
+python-multipart==0.0.6
