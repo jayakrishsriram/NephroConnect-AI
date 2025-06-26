@@ -106,12 +106,11 @@ A sophisticated multi-agent AI system designed to provide post-discharge support
 
 5. **Start the application**
    ```bash
-   python app.py
+   uvicorn app:app --reload
    ```
 
 6. **Access the application**
-   - Open your browser and go to `http://localhost:8000`
-   - The web interface will be available immediately
+   - Open the index.html and your app is ready to run
 
 ## 💬 Usage Guide
 
