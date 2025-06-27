@@ -1,6 +1,12 @@
 # 🏥 NephroConnect AI
 
 A sophisticated multi-agent AI system designed to provide post-discharge support for nephrology patients. This system combines patient database lookups, RAG (Retrieval-Augmented Generation) with medical literature, and intelligent agent routing to provide personalized medical assistance.
+## Demo Video
+
+
+https://github.com/user-attachments/assets/938d622d-375c-4f8f-a71a-392007471eb9
+
+
 
 ## 🌟 Features
 
